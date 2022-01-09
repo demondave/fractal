@@ -16,4 +16,4 @@ This even without the X11 server.
 
 - Clear the console with `clear`
 
-- Execute with `./fractal`
+- Execute the binary with `./fractal`
